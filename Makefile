@@ -14,8 +14,10 @@ define add_comments
 $(HOME_LINK) | { cat - ;  printf "\n---------------\n\n### [Post comments]($(1))\n\nI am too technologically illiterate to set up a comment system on this page, but comments and questions are very welcome and encouraged through Github's issue system: [just click here]($(1))! (I know it's kind of a hack but it should work well enough.)\n" ; } | $(PANDOC)
 endef
 
-all : $(NEEDS)
+all : $(T) $(NEEDS)
 
+$(T):
+	mkdir -p $(T)
 
 $(T)/index.html : $(S)/index.md Makefile # still working here
 	cat $< | $(PANDOC) > $@
