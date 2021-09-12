@@ -11,23 +11,22 @@ York City parks and outdoor spaces.
 
 Anyone in the New York City area who is interested in climate, the
 environment, and/or ecology is welcome to attend for as much or as
-little gathering as they would like. To attend, please email Adam
-Massmann at akm2203@columbia.edu.
+little of the gathering as they would like. **To attend, please email
+Adam Massmann at akm2203@columbia.edu.**
 
-### Gathering motivation
+### Motivation
 
-We wanted somewhere to discuss and engage with global/local climate
-and/or ecology that:
+Somewhere to discuss and engage with climate and/or ecology that:
 
-  * Does not require long distance travel (with associated
-    carbon/energy costs) for people local to the NYC area.
+  * Does not require long distance travel, with its associated
+    energy/carbon costs, for people local to the NYC area.
   * Does not require digital conferencing tools (Zoom, etc.).
   * Does not require scientific production or intensive preparation
     (abstract submission, presentations, posters, etc.).
   * Does not require a registration fee.
   * Does not require sharing an indoor space with others.
 
-### Potential locales (ideas welcome)
+### Potential locales (ideas and feedback welcome)
 
   * Van Cortlandt Park
   * Fort Tryon and Inwood Parks
