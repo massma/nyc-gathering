@@ -21,10 +21,10 @@ Somewhere to discuss and engage with climate and/or ecology that:
   * Does not require long distance travel, with its associated
     energy/carbon costs, for people local to the NYC area.
   * Does not require digital conferencing tools (Zoom, etc.).
-  * Does not require scientific production or intensive preparation
+  * Does not require intensive preparation or scientific "production"
     (abstract submission, presentations, posters, etc.).
   * Does not require a registration fee.
-  * Does not require sharing an indoor space with others.
+  * is in an outdoor space.
 
 ### Potential locales (ideas and feedback welcome)
 
@@ -41,3 +41,9 @@ More details will be posted to this website as the
 attendees/organizers finalize them. If you have any questions or would
 like to be added to the gathering's mailing list, please email Adam
 Massmann at akm2203@columbia.edu
+
+### Inspiration
+
+This gathering's format is inspired by the Ecology and Performance
+Working Group's approach for the American Society for Theater Research
+conference.
